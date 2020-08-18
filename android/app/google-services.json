@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522461315087",
+    "firebase_url": "https://red-de-alcance-global.firebaseio.com",
+    "project_id": "red-de-alcance-global",
+    "storage_bucket": "red-de-alcance-global.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522461315087:android:daf1ca8e6196455756237a",
+        "android_client_info": {
+          "package_name": "dev.rag.ragapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522461315087-3rq655d5gbojcjeb0fb0jie7k4p514nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.rag.ragapp",
+            "certificate_hash": "70d52eeb5c804267e4e95599aa4fd096aa1f0e18"
+          }
+        },
+        {
+          "client_id": "522461315087-qekmdn6ao0720a1otbla6drvm8plp0p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmd40xAGP8kwJNXKlyRswBRJpLy7wifTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522461315087-qekmdn6ao0720a1otbla6drvm8plp0p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522461315087-klk6q2rs3roefam0ui6138p8d4jsnvt8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alcance.irag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
