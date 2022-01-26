@@ -2,4 +2,4 @@
 
 App screenShots
 
-<img src="https://github.com/camilo1498/flutter-Rag-App/blob/master/ragapp%20screenshots/13.jpg" width="100" height="250">
+<img src="https://github.com/camilo1498/flutter-Rag-App/blob/master/ragapp%20screenshots/13.jpg" width="130" height="250">
